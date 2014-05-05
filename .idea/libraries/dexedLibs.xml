@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-b07608e64c6e41a1ec965e1be5fb27ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/FlurryAgent-4f91d27dcb1b2cf5654bd4aa3e76ca50.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/httpmime-4.2-8e180593940ab040b71b63bdab4d5d5d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/AndroidPdfLib-8353265acb9c70a8f8f55e616aa6059e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/gson-2.2.1-db7578e150f9ee0414f2f3f3cb71801d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
